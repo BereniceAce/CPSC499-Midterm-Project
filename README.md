@@ -5,6 +5,7 @@ CPSC 499 Backend Engineering Project
 This project focuses on creating a backend system for a ticketing app similar to applications like Ticketmaster or Eventbrite. The database consists of 6 entities; Organizer, Venue, Event, Attendee, Ticket Type, and Booking. There are a total of 10 required API endpoints that had to be fulfilled. Unfortunately, I faced difficulty with the GET and PUT endpoints and didn't get to complete them all. I plan to continue working the endpoints out and update my code once I complete them.
 
 ## POST /api/organizers
+<img width="1600" height="570" alt="unnamed" src="https://github.com/user-attachments/assets/f09990ab-de20-4679-8959-c8de06d7a877" />
 
 
 ## POST /api/venues
