@@ -14,7 +14,7 @@ This project focuses on creating a backend system for a ticketing app similar to
 <img width="1600" height="618" alt="unnamed" src="https://github.com/user-attachments/assets/8e488cf0-f9e7-4655-adb9-4b429522ecda" />
 
 ## GET /api/events 
-<img width="872" height="527" alt="image" src="https://github.com/user-attachments/assets/6d7d1f91-b9fe-4396-a7bb-cf39573b32ae" />
+<img width="876" height="802" alt="image" src="https://github.com/user-attachments/assets/74062aca-6577-45f9-ba95-d53fe3b92b79" />
 
 ## GET /api/events/{id}
 <img width="1600" height="735" alt="unnamed" src="https://github.com/user-attachments/assets/64f4c5bf-7eab-4b6c-ba05-4e192030526f" />
